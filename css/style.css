@@ -16,7 +16,7 @@ SUGESTÃO DE ESTRUTURAÇÃO BASE
 :root{}  
   /*BODY*/
   body{
-	  width: 1024px;
+	  width: 935px;
 	  margin: 0 auto;
 	  font-family:Helvetica, Arial, sans-serif;
   }
@@ -94,8 +94,8 @@ SUGESTÃO DE ESTRUTURAÇÃO BASE
   }
   
   .highlighted-stories ul li figure img{
-	  width: 80px;
-	  height: 80px;
+	  width: 77px;
+	  height: 77px;
 	  border-radius: 100px;
 	  margin: 8px 48px 10px 55px;
 	  cursor: pointer;
